@@ -1,0 +1,245 @@
+
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gestão do Código Geográfico | Cabo Verde</title>
+
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+
+<body>
+
+    <!-- CABEÇALHO -->
+    <header class="cabecalho">
+        <div class="marca">
+            <div class="marca-icone">CV</div>
+            <div>
+                <h1>Código Geográfico</h1>
+                <p>República de Cabo Verde</p>
+            </div>
+        </div>
+
+        <div class="estado">
+            <span class="estado-ponto"></span>
+            Sistema de gestão
+        </div>
+    </header>
+
+    <div class="layout">
+
+        <!-- MENU LATERAL -->
+        <aside class="menu">
+            <div class="menu-titulo">MENU PRINCIPAL</div>
+
+            <button type="button" class="item-menu ativo" data-tabela="ilhas">
+                <span class="item-icone">◈</span> Ilhas
+            </button>
+
+            <button type="button" class="item-menu" data-tabela="concelhos">
+                <span class="item-icone">⌂</span> Concelhos
+            </button>
+
+            <button type="button" class="item-menu" data-tabela="freguesias">
+                <span class="item-icone">▦</span> Freguesias
+            </button>
+
+            <button type="button" class="item-menu" data-tabela="zonas">
+                <span class="item-icone">⌖</span> Zonas
+            </button>
+
+            <button type="button" class="item-menu" data-tabela="lugares">
+                <span class="item-icone">▤</span> Lugares
+            </button>
+
+            <div class="menu-nota">
+                <strong>Base de dados</strong>
+                <p>codigo_geografico_cv</p>
+                <span>MySQL · PHP · JavaScript</span>
+            </div>
+        </aside>
+
+        <!-- CONTEÚDO PRINCIPAL -->
+        <main class="conteudo">
+
+            <!-- TÍTULO E ATUALIZAÇÃO -->
+            <div class="titulo-pagina">
+                <div>
+                    <p class="sobretitulo">ADMINISTRAÇÃO DE DADOS</p>
+                    <h2 id="titulo-tabela">Ilhas</h2>
+                    <p id="descricao-tabela">
+                        Consulta e gestão das ilhas de Cabo Verde.
+                    </p>
+                </div>
+
+                <button id="btn-atualizar" class="botao botao-secundario" type="button">
+                    ↻ Atualizar
+                </button>
+            </div>
+
+            <!-- CARTÕES DE INFORMAÇÃO -->
+            <section class="cartoes">
+
+                <article class="cartao">
+                    <div class="cartao-icone icone-azul">▤</div>
+                    <div>
+                        <p>Total de registos</p>
+                        <h3 id="total-registos">—</h3>
+                    </div>
+                </article>
+
+                <article class="cartao">
+                    <div class="cartao-icone icone-verde">✓</div>
+                    <div>
+                        <p>Tabela selecionada</p>
+                        <h3 id="nome-tabela-cartao">Ilhas</h3>
+                    </div>
+                </article>
+
+            </section>
+
+            <!-- PAINEL DE REGISTOS -->
+            <section class="painel">
+
+                <div class="painel-cabecalho">
+                    <div>
+                        <h3>Registos existentes</h3>
+                        <p>Pesquisa e administra os dados da tabela.</p>
+                    </div>
+
+                    <button id="btn-adicionar" class="botao botao-principal" type="button">
+                        + Adicionar registo
+                    </button>
+                </div>
+
+                <!-- FILTROS GEOGRÁFICOS -->
+                <div class="filtros-geograficos">
+
+                    <div class="campo-filtro">
+                        <label for="filtro-ilha">Ilha</label>
+                        <select id="filtro-ilha">
+                            <option value="">Todas as ilhas</option>
+                        </select>
+                    </div>
+
+                    <div class="campo-filtro">
+                        <label for="filtro-concelho">Concelho</label>
+                        <select id="filtro-concelho" disabled>
+                            <option value="">Todos os concelhos</option>
+                        </select>
+                    </div>
+
+                    <div class="campo-filtro">
+                        <label for="filtro-freguesia">Freguesia</label>
+                        <select id="filtro-freguesia" disabled>
+                            <option value="">Todas as freguesias</option>
+                        </select>
+                    </div>
+
+                    <div class="campo-filtro">
+                        <label for="filtro-localidade">Zona</label>
+                        <select id="filtro-localidade" disabled>
+                            <option value="">Todas as zonas</option>
+                        </select>
+                    </div>
+
+                    <div class="campo-filtro">
+                        <label for="filtro-lugar">Lugar</label>
+                        <select id="filtro-lugar" disabled>
+                            <option value="">Todos os lugares</option>
+                        </select>
+                    </div>
+
+                    <button id="btn-limpar-filtros" class="botao botao-secundario" type="button">
+                        Limpar filtros
+                    </button>
+
+                </div>
+
+                <!-- PESQUISA -->
+                <div class="filtros">
+                    <label class="pesquisa">
+                        <span>⌕</span>
+                        <input type="search" id="pesquisa"
+                               placeholder="Pesquisar por ID ou nome...">
+                    </label>
+
+                    <span id="contador-resultados">A carregar registos...</span>
+                </div>
+
+                <!-- MENSAGENS -->
+                <div id="mensagem" class="mensagem"
+                     role="status" aria-live="polite"></div>
+
+                <!-- TABELA -->
+                <div class="tabela-container">
+                    <table>
+                        <thead id="cabecalho-tabela"></thead>
+                        <tbody id="corpo-tabela">
+                            <tr>
+                                <td class="vazio">A carregar dados...</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+
+                <!-- RODAPÉ DA TABELA -->
+                <div class="rodape-tabela">
+                    <span>Dados do Código Geográfico Nacional</span>
+                    <span id="pagina-info">Todos os registos</span>
+                </div>
+
+            </section>
+
+            <footer class="rodape">
+                Projeto académico · Introdução à Programação Web
+            </footer>
+
+        </main>
+    </div>
+
+    <!-- MODAL DE ADICIONAR E EDITAR -->
+    <div id="modal" class="modal" hidden>
+
+        <div class="modal-conteudo" role="dialog"
+             aria-modal="true" aria-labelledby="modal-titulo">
+
+            <div class="modal-cabecalho">
+                <div>
+                    <p class="sobretitulo">GESTÃO DE REGISTOS</p>
+                    <h2 id="modal-titulo">Adicionar registo</h2>
+                </div>
+
+                <button id="btn-fechar" class="botao-fechar"
+                        type="button" aria-label="Fechar janela">
+                    &times;
+                </button>
+            </div>
+
+            <p id="modal-descricao">
+                Preenche os campos para guardar o registo.
+            </p>
+
+            <!-- FORMULÁRIO DINÂMICO -->
+            <form id="form-registo">
+
+                <div id="campos-formulario" class="campos-formulario"></div>
+
+                <div class="modal-acoes">
+                    <button id="btn-cancelar" class="botao botao-secundario" type="button">
+                        Cancelar
+                    </button>
+
+                    <button id="btn-guardar" class="botao botao-principal" type="submit">
+                        Guardar registo
+                    </button>
+                </div>
+
+            </form>
+        </div>
+    </div>
+
+</body>
+</html>

@@ -1,0 +1,2879 @@
+[
+    {
+        "id": 77101,
+        "zona": "ABOBOREIRO",
+        "freguesia_id": 771,
+        "concelho_id": 77,
+        "ilha_id": 7
+    },
+    {
+        "id": 75101,
+        "zona": "ACHADA BALEIA",
+        "freguesia_id": 751,
+        "concelho_id": 75,
+        "ilha_id": 7
+    },
+    {
+        "id": 73101,
+        "zona": "ACHADA BELBEL",
+        "freguesia_id": 731,
+        "concelho_id": 73,
+        "ilha_id": 7
+    },
+    {
+        "id": 71101,
+        "zona": "ACHADA BISCANHOS",
+        "freguesia_id": 711,
+        "concelho_id": 71,
+        "ilha_id": 7
+    },
+    {
+        "id": 78101,
+        "zona": "ACHADA COSTA",
+        "freguesia_id": 781,
+        "concelho_id": 78,
+        "ilha_id": 7
+    },
+    {
+        "id": 73102,
+        "zona": "ACHADA FAZENDA",
+        "freguesia_id": 731,
+        "concelho_id": 73,
+        "ilha_id": 7
+    },
+    {
+        "id": 83101,
+        "zona": "ACHADA FURNA",
+        "freguesia_id": 831,
+        "concelho_id": 83,
+        "ilha_id": 8
+    },
+    {
+        "id": 72101,
+        "zona": "ACHADA GALEGO",
+        "freguesia_id": 721,
+        "concelho_id": 72,
+        "ilha_id": 7
+    },
+    {
+        "id": 72102,
+        "zona": "ACHADA GOMES",
+        "freguesia_id": 721,
+        "concelho_id": 72,
+        "ilha_id": 7
+    },
+    {
+        "id": 81101,
+        "zona": "ACHADA GRANDE",
+        "freguesia_id": 811,
+        "concelho_id": 81,
+        "ilha_id": 8
+    },
+    {
+        "id": 71102,
+        "zona": "ACHADA LAGOA",
+        "freguesia_id": 711,
+        "concelho_id": 71,
+        "ilha_id": 7
+    },
+    {
+        "id": 73124,
+        "zona": "ACHADA LAJE",
+        "freguesia_id": 731,
+        "concelho_id": 73,
+        "ilha_id": 7
+    },
+    {
+        "id": 72103,
+        "zona": "ACHADA LAZAO",
+        "freguesia_id": 721,
+        "concelho_id": 72,
+        "ilha_id": 7
+    },
+    {
+        "id": 77103,
+        "zona": "ACHADA LEITAO",
+        "freguesia_id": 771,
+        "concelho_id": 77,
+        "ilha_id": 7
+    },
+    {
+        "id": 72104,
+        "zona": "ACHADA LEITE",
+        "freguesia_id": 721,
+        "concelho_id": 72,
+        "ilha_id": 7
+    },
+    {
+        "id": 72105,
+        "zona": "ACHADA LEM",
+        "freguesia_id": 721,
+        "concelho_id": 72,
+        "ilha_id": 7
+    },
+    {
+        "id": 71103,
+        "zona": "ACHADA LONGUEIRA",
+        "freguesia_id": 711,
+        "concelho_id": 71,
+        "ilha_id": 7
+    },
+    {
+        "id": 71104,
+        "zona": "ACHADA MEIO",
+        "freguesia_id": 711,
+        "concelho_id": 71,
+        "ilha_id": 7
+    },
+    {
+        "id": 82101,
+        "zona": "ACHADA MENTIROSA",
+        "freguesia_id": 821,
+        "concelho_id": 82,
+        "ilha_id": 8
+    },
+    {
+        "id": 75201,
+        "zona": "ACHADA MITRA",
+        "freguesia_id": 752,
+        "concelho_id": 75,
+        "ilha_id": 7
+    },
+    {
+        "id": 71105,
+        "zona": "ACHADA MOIRAO",
+        "freguesia_id": 711,
+        "concelho_id": 71,
+        "ilha_id": 7
+    },
+    {
+        "id": 76102,
+        "zona": "ACHADA MONTE",
+        "freguesia_id": 761,
+        "concelho_id": 76,
+        "ilha_id": 7
+    },
+    {
+        "id": 73103,
+        "zona": "ACHADA PONTA",
+        "freguesia_id": 731,
+        "concelho_id": 73,
+        "ilha_id": 7
+    },
+    {
+        "id": 72106,
+        "zona": "ACHADA PONTA",
+        "freguesia_id": 721,
+        "concelho_id": 72,
+        "ilha_id": 7
+    },
+    {
+        "id": 71106,
+        "zona": "ACHADA TENDA",
+        "freguesia_id": 711,
+        "concelho_id": 71,
+        "ilha_id": 7
+    },
+    {
+        "id": 72107,
+        "zona": "ACHADA TOSSA",
+        "freguesia_id": 721,
+        "concelho_id": 72,
+        "ilha_id": 7
+    },
+    {
+        "id": 13124,
+        "zona": "ÁGUA DAS CALDEIRAS",
+        "freguesia_id": 131,
+        "concelho_id": 13,
+        "ilha_id": 1
+    },
+    {
+        "id": 31201,
+        "zona": "AGUA DAS PATAS",
+        "freguesia_id": 312,
+        "concelho_id": 31,
+        "ilha_id": 3
+    },
+    {
+        "id": 75202,
+        "zona": "AGUA DE GATO",
+        "freguesia_id": 752,
+        "concelho_id": 75,
+        "ilha_id": 7
+    },
+    {
+        "id": 13101,
+        "zona": "AGUA DOS VELHOS",
+        "freguesia_id": 131,
+        "concelho_id": 13,
+        "ilha_id": 1
+    },
+    {
+        "id": 72108,
+        "zona": "AGUAS PODRES",
+        "freguesia_id": 721,
+        "concelho_id": 72,
+        "ilha_id": 7
+    },
+    {
+        "id": 13201,
+        "zona": "ALTO MIRA",
+        "freguesia_id": 132,
+        "concelho_id": 13,
+        "ilha_id": 1
+    },
+    {
+        "id": 72109,
+        "zona": "ARRIBADA",
+        "freguesia_id": 721,
+        "concelho_id": 72,
+        "ilha_id": 7
+    },
+    {
+        "id": 81102,
+        "zona": "ATALAIA",
+        "freguesia_id": 811,
+        "concelho_id": 81,
+        "ilha_id": 8
+    },
+    {
+        "id": 77104,
+        "zona": "BABOSA",
+        "freguesia_id": 771,
+        "concelho_id": 77,
+        "ilha_id": 7
+    },
+    {
+        "id": 75102,
+        "zona": "BAIA",
+        "freguesia_id": 751,
+        "concelho_id": 75,
+        "ilha_id": 7
+    },
+    {
+        "id": 75203,
+        "zona": "BANANA",
+        "freguesia_id": 752,
+        "concelho_id": 75,
+        "ilha_id": 7
+    },
+    {
+        "id": 72110,
+        "zona": "BANANA SEMEDO",
+        "freguesia_id": 721,
+        "concelho_id": 72,
+        "ilha_id": 7
+    },
+    {
+        "id": 61101,
+        "zona": "BARREIRO",
+        "freguesia_id": 611,
+        "concelho_id": 61,
+        "ilha_id": 6
+    },
+    {
+        "id": 79202,
+        "zona": "BELEM",
+        "freguesia_id": 792,
+        "concelho_id": 79,
+        "ilha_id": 7
+    },
+    {
+        "id": 31202,
+        "zona": "BELEM",
+        "freguesia_id": 312,
+        "concelho_id": 31,
+        "ilha_id": 3
+    },
+    {
+        "id": 71107,
+        "zona": "BISCAINHOS",
+        "freguesia_id": 711,
+        "concelho_id": 71,
+        "ilha_id": 7
+    },
+    {
+        "id": 72111,
+        "zona": "BOA ENTRADA",
+        "freguesia_id": 721,
+        "concelho_id": 72,
+        "ilha_id": 7
+    },
+    {
+        "id": 72112,
+        "zona": "BOA ENTRADINHA",
+        "freguesia_id": 721,
+        "concelho_id": 72,
+        "ilha_id": 7
+    },
+    {
+        "id": 73104,
+        "zona": "BOAVENTURA",
+        "freguesia_id": 731,
+        "concelho_id": 73,
+        "ilha_id": 7
+    },
+    {
+        "id": 11301,
+        "zona": "BOCA DE AMBAS RIBEIRAS",
+        "freguesia_id": 113,
+        "concelho_id": 11,
+        "ilha_id": 1
+    },
+    {
+        "id": 11302,
+        "zona": "BOCA DE CORUJA",
+        "freguesia_id": 113,
+        "concelho_id": 11,
+        "ilha_id": 1
+    },
+    {
+        "id": 11303,
+        "zona": "BOCA DE JOAO AFONSO",
+        "freguesia_id": 113,
+        "concelho_id": 11,
+        "ilha_id": 1
+    },
+    {
+        "id": 78102,
+        "zona": "BOCA LARGA",
+        "freguesia_id": 781,
+        "concelho_id": 78,
+        "ilha_id": 7
+    },
+    {
+        "id": 73105,
+        "zona": "BOCA LARGA",
+        "freguesia_id": 731,
+        "concelho_id": 73,
+        "ilha_id": 7
+    },
+    {
+        "id": 51201,
+        "zona": "BOFARREIRA",
+        "freguesia_id": 512,
+        "concelho_id": 51,
+        "ilha_id": 5
+    },
+    {
+        "id": 72113,
+        "zona": "BOMBARDEIRO (ENGENHOS)",
+        "freguesia_id": 721,
+        "concelho_id": 72,
+        "ilha_id": 7
+    },
+    {
+        "id": 31203,
+        "zona": "BOQUEIRAO",
+        "freguesia_id": 312,
+        "concelho_id": 31,
+        "ilha_id": 3
+    },
+    {
+        "id": 82201,
+        "zona": "BRANDAO",
+        "freguesia_id": 822,
+        "concelho_id": 82,
+        "ilha_id": 8
+    },
+    {
+        "id": 77105,
+        "zona": "BURBUR",
+        "freguesia_id": 771,
+        "concelho_id": 77,
+        "ilha_id": 7
+    },
+    {
+        "id": 82202,
+        "zona": "CABECA DO MONTE",
+        "freguesia_id": 822,
+        "concelho_id": 82,
+        "ilha_id": 8
+    },
+    {
+        "id": 51101,
+        "zona": "CABEÇA DOS TARRAFES",
+        "freguesia_id": 511,
+        "concelho_id": 51,
+        "ilha_id": 5
+    },
+    {
+        "id": 32101,
+        "zona": "CABECALINHO",
+        "freguesia_id": 321,
+        "concelho_id": 32,
+        "ilha_id": 3
+    },
+    {
+        "id": 12101,
+        "zona": "CABO DA RIBEIRA",
+        "freguesia_id": 121,
+        "concelho_id": 12,
+        "ilha_id": 1
+    },
+    {
+        "id": 91201,
+        "zona": "CACHACO",
+        "freguesia_id": 912,
+        "concelho_id": 91,
+        "ilha_id": 9
+    },
+    {
+        "id": 31205,
+        "zona": "CACHACO",
+        "freguesia_id": 312,
+        "concelho_id": 31,
+        "ilha_id": 3
+    },
+    {
+        "id": 91110,
+        "zona": "CACHAÇO",
+        "freguesia_id": 911,
+        "concelho_id": 91,
+        "ilha_id": 9
+    },
+    {
+        "id": 11304,
+        "zona": "CAIBROS",
+        "freguesia_id": 113,
+        "concelho_id": 11,
+        "ilha_id": 1
+    },
+    {
+        "id": 79101,
+        "zona": "CALABACEIRA",
+        "freguesia_id": 791,
+        "concelho_id": 79,
+        "ilha_id": 7
+    },
+    {
+        "id": 31206,
+        "zona": "CALEIJAO",
+        "freguesia_id": 312,
+        "concelho_id": 31,
+        "ilha_id": 3
+    },
+    {
+        "id": 61102,
+        "zona": "CALHETA",
+        "freguesia_id": 611,
+        "concelho_id": 61,
+        "ilha_id": 6
+    },
+    {
+        "id": 76103,
+        "zona": "CALHETA DE S.MIGUEL (SU)",
+        "freguesia_id": 761,
+        "concelho_id": 76,
+        "ilha_id": 7
+    },
+    {
+        "id": 82102,
+        "zona": "CAMPANAS BAIXO",
+        "freguesia_id": 821,
+        "concelho_id": 82,
+        "ilha_id": 8
+    },
+    {
+        "id": 82103,
+        "zona": "CAMPANAS CIMA",
+        "freguesia_id": 821,
+        "concelho_id": 82,
+        "ilha_id": 8
+    },
+    {
+        "id": 31207,
+        "zona": "CAMPINHO",
+        "freguesia_id": 312,
+        "concelho_id": 31,
+        "ilha_id": 3
+    },
+    {
+        "id": 91202,
+        "zona": "CAMPO BAIXO",
+        "freguesia_id": 912,
+        "concelho_id": 91,
+        "ilha_id": 9
+    },
+    {
+        "id": 12102,
+        "zona": "CAMPO DE CAO",
+        "freguesia_id": 121,
+        "concelho_id": 12,
+        "ilha_id": 1
+    },
+    {
+        "id": 75103,
+        "zona": "CANCELO",
+        "freguesia_id": 751,
+        "concelho_id": 75,
+        "ilha_id": 7
+    },
+    {
+        "id": 73106,
+        "zona": "CANCELO",
+        "freguesia_id": 731,
+        "concelho_id": 73,
+        "ilha_id": 7
+    },
+    {
+        "id": 31208,
+        "zona": "CARRICAL",
+        "freguesia_id": 312,
+        "concelho_id": 31,
+        "ilha_id": 3
+    },
+    {
+        "id": 31209,
+        "zona": "CARVOEIROS",
+        "freguesia_id": 312,
+        "concelho_id": 31,
+        "ilha_id": 3
+    },
+    {
+        "id": 76104,
+        "zona": "CASA BRANCA",
+        "freguesia_id": 761,
+        "concelho_id": 76,
+        "ilha_id": 7
+    },
+    {
+        "id": 13123,
+        "zona": "CASA DO MEIO",
+        "freguesia_id": 131,
+        "concelho_id": 13,
+        "ilha_id": 1
+    },
+    {
+        "id": 61103,
+        "zona": "CASCABULHO",
+        "freguesia_id": 611,
+        "concelho_id": 61,
+        "ilha_id": 6
+    },
+    {
+        "id": 13102,
+        "zona": "CATANO",
+        "freguesia_id": 131,
+        "concelho_id": 13,
+        "ilha_id": 1
+    },
+    {
+        "id": 83102,
+        "zona": "CHA DAS CALDEIRAS",
+        "freguesia_id": 831,
+        "concelho_id": 83,
+        "ilha_id": 8
+    },
+    {
+        "id": 13202,
+        "zona": "CHA DE BRANQUINHO",
+        "freguesia_id": 132,
+        "concelho_id": 13,
+        "ilha_id": 1
+    },
+    {
+        "id": 79203,
+        "zona": "CHA DE IGREJA",
+        "freguesia_id": 792,
+        "concelho_id": 79,
+        "ilha_id": 7
+    },
+    {
+        "id": 11401,
+        "zona": "CHA DE IGREJA",
+        "freguesia_id": 114,
+        "concelho_id": 11,
+        "ilha_id": 1
+    },
+    {
+        "id": 72114,
+        "zona": "CHA DE LAGOA",
+        "freguesia_id": 721,
+        "concelho_id": 72,
+        "ilha_id": 7
+    },
+    {
+        "id": 13103,
+        "zona": "CHA DE MORTE",
+        "freguesia_id": 131,
+        "concelho_id": 13,
+        "ilha_id": 1
+    },
+    {
+        "id": 13203,
+        "zona": "CHA DE NORTE",
+        "freguesia_id": 132,
+        "concelho_id": 13,
+        "ilha_id": 1
+    },
+    {
+        "id": 11305,
+        "zona": "CHA DE PEDRAS",
+        "freguesia_id": 113,
+        "concelho_id": 11,
+        "ilha_id": 1
+    },
+    {
+        "id": 76105,
+        "zona": "CHA DE PONTA",
+        "freguesia_id": 761,
+        "concelho_id": 76,
+        "ilha_id": 7
+    },
+    {
+        "id": 73107,
+        "zona": "CHA DE SILVA",
+        "freguesia_id": 731,
+        "concelho_id": 73,
+        "ilha_id": 7
+    },
+    {
+        "id": 72115,
+        "zona": "CHA DE TANQUE",
+        "freguesia_id": 721,
+        "concelho_id": 72,
+        "ilha_id": 7
+    },
+    {
+        "id": 79204,
+        "zona": "CHA GONCALVES",
+        "freguesia_id": 792,
+        "concelho_id": 79,
+        "ilha_id": 7
+    },
+    {
+        "id": 75204,
+        "zona": "CHAMINE",
+        "freguesia_id": 752,
+        "concelho_id": 75,
+        "ilha_id": 7
+    },
+    {
+        "id": 71108,
+        "zona": "CHAO BOM",
+        "freguesia_id": 711,
+        "concelho_id": 71,
+        "ilha_id": 7
+    },
+    {
+        "id": 75104,
+        "zona": "CHAO DE COQUEIRO",
+        "freguesia_id": 751,
+        "concelho_id": 75,
+        "ilha_id": 7
+    },
+    {
+        "id": 72116,
+        "zona": "CHARCO",
+        "freguesia_id": 721,
+        "concelho_id": 72,
+        "ilha_id": 7
+    },
+    {
+        "id": 79214,
+        "zona": "CHUVA CHOVE",
+        "freguesia_id": 792,
+        "concelho_id": 79,
+        "ilha_id": 7
+    },
+    {
+        "id": 74103,
+        "zona": "CIDADE DA PRAIA",
+        "freguesia_id": 741,
+        "concelho_id": 74,
+        "ilha_id": 7
+    },
+    {
+        "id": 79102,
+        "zona": "CIDADE DE SANTIAGO DE CABO VERDE (URBANO)",
+        "freguesia_id": 791,
+        "concelho_id": 79,
+        "ilha_id": 7
+    },
+    {
+        "id": 82203,
+        "zona": "CIDADE DE SAO FILIPE",
+        "freguesia_id": 822,
+        "concelho_id": 82,
+        "ilha_id": 8
+    },
+    {
+        "id": 21101,
+        "zona": "CIDADE DO MINDELO",
+        "freguesia_id": 211,
+        "concelho_id": 21,
+        "ilha_id": 2
+    },
+    {
+        "id": 13104,
+        "zona": "CIRIO",
+        "freguesia_id": 131,
+        "concelho_id": 13,
+        "ilha_id": 1
+    },
+    {
+        "id": 11306,
+        "zona": "COCULI",
+        "freguesia_id": 113,
+        "concelho_id": 11,
+        "ilha_id": 1
+    },
+    {
+        "id": 31210,
+        "zona": "COELHA",
+        "freguesia_id": 312,
+        "concelho_id": 31,
+        "ilha_id": 3
+    },
+    {
+        "id": 11307,
+        "zona": "CORDA II",
+        "freguesia_id": 113,
+        "concelho_id": 11,
+        "ilha_id": 1
+    },
+    {
+        "id": 81103,
+        "zona": "CORVO",
+        "freguesia_id": 811,
+        "concelho_id": 81,
+        "ilha_id": 8
+    },
+    {
+        "id": 79107,
+        "zona": "COSTA ACHADA",
+        "freguesia_id": 791,
+        "concelho_id": 79,
+        "ilha_id": 7
+    },
+    {
+        "id": 74104,
+        "zona": "COSTA ACHADA",
+        "freguesia_id": 741,
+        "concelho_id": 74,
+        "ilha_id": 7
+    },
+    {
+        "id": 91203,
+        "zona": "COVA DE JOANA",
+        "freguesia_id": 912,
+        "concelho_id": 91,
+        "ilha_id": 9
+    },
+    {
+        "id": 91204,
+        "zona": "COVA RODELA",
+        "freguesia_id": 912,
+        "concelho_id": 91,
+        "ilha_id": 9
+    },
+    {
+        "id": 91101,
+        "zona": "COVA RODELA",
+        "freguesia_id": 911,
+        "concelho_id": 91,
+        "ilha_id": 9
+    },
+    {
+        "id": 77106,
+        "zona": "COVAO GRANDE",
+        "freguesia_id": 771,
+        "concelho_id": 77,
+        "ilha_id": 7
+    },
+    {
+        "id": 31101,
+        "zona": "COVOADA",
+        "freguesia_id": 311,
+        "concelho_id": 31,
+        "ilha_id": 3
+    },
+    {
+        "id": 72117,
+        "zona": "CRUZ GRANDE",
+        "freguesia_id": 721,
+        "concelho_id": 72,
+        "ilha_id": 7
+    },
+    {
+        "id": 13105,
+        "zona": "CURRAL DAS VACAS",
+        "freguesia_id": 131,
+        "concelho_id": 13,
+        "ilha_id": 1
+    },
+    {
+        "id": 82104,
+        "zona": "CURRAL GRANDE",
+        "freguesia_id": 821,
+        "concelho_id": 82,
+        "ilha_id": 8
+    },
+    {
+        "id": 71109,
+        "zona": "CURRAL VELHO",
+        "freguesia_id": 711,
+        "concelho_id": 71,
+        "ilha_id": 7
+    },
+    {
+        "id": 81115,
+        "zona": "CUTELO ALTO",
+        "freguesia_id": 811,
+        "concelho_id": 81,
+        "ilha_id": 8
+    },
+    {
+        "id": 76106,
+        "zona": "CUTELO GOMES",
+        "freguesia_id": 761,
+        "concelho_id": 76,
+        "ilha_id": 7
+    },
+    {
+        "id": 75205,
+        "zona": "DACABALAIO",
+        "freguesia_id": 752,
+        "concelho_id": 75,
+        "ilha_id": 7
+    },
+    {
+        "id": 77107,
+        "zona": "DEGREDO",
+        "freguesia_id": 771,
+        "concelho_id": 77,
+        "ilha_id": 7
+    },
+    {
+        "id": 79205,
+        "zona": "DELGADO",
+        "freguesia_id": 792,
+        "concelho_id": 79,
+        "ilha_id": 7
+    },
+    {
+        "id": 75105,
+        "zona": "DOBE",
+        "freguesia_id": 751,
+        "concelho_id": 75,
+        "ilha_id": 7
+    },
+    {
+        "id": 12103,
+        "zona": "EITO",
+        "freguesia_id": 121,
+        "concelho_id": 12,
+        "ilha_id": 1
+    },
+    {
+        "id": 72118,
+        "zona": "ENTRE PICOS",
+        "freguesia_id": 721,
+        "concelho_id": 72,
+        "ilha_id": 7
+    },
+    {
+        "id": 72119,
+        "zona": "ENTRE PICOS DE REDA",
+        "freguesia_id": 721,
+        "concelho_id": 72,
+        "ilha_id": 7
+    },
+    {
+        "id": 76107,
+        "zona": "ESPINHO BRANCO",
+        "freguesia_id": 761,
+        "concelho_id": 76,
+        "ilha_id": 7
+    },
+    {
+        "id": 51202,
+        "zona": "ESTÂNCIA DE BAIXO",
+        "freguesia_id": 512,
+        "concelho_id": 51,
+        "ilha_id": 5
+    },
+    {
+        "id": 31102,
+        "zona": "ESTANCIA DE BRAZ",
+        "freguesia_id": 311,
+        "concelho_id": 31,
+        "ilha_id": 3
+    },
+    {
+        "id": 83104,
+        "zona": "ESTANCIA ROQUE",
+        "freguesia_id": 831,
+        "concelho_id": 83,
+        "ilha_id": 8
+    },
+    {
+        "id": 31211,
+        "zona": "FAJA",
+        "freguesia_id": 312,
+        "concelho_id": 31,
+        "ilha_id": 3
+    },
+    {
+        "id": 91205,
+        "zona": "FAJA D'AGUA",
+        "freguesia_id": 912,
+        "concelho_id": 91,
+        "ilha_id": 9
+    },
+    {
+        "id": 31103,
+        "zona": "FAJA DE BAIXO",
+        "freguesia_id": 311,
+        "concelho_id": 31,
+        "ilha_id": 3
+    },
+    {
+        "id": 11101,
+        "zona": "FAJA DOMINGAS BENTA",
+        "freguesia_id": 111,
+        "concelho_id": 11,
+        "ilha_id": 1
+    },
+    {
+        "id": 81104,
+        "zona": "FAJÃNZINHA",
+        "freguesia_id": 811,
+        "concelho_id": 81,
+        "ilha_id": 8
+    },
+    {
+        "id": 77108,
+        "zona": "FAVETA",
+        "freguesia_id": 771,
+        "concelho_id": 77,
+        "ilha_id": 7
+    },
+    {
+        "id": 71110,
+        "zona": "FAZENDA",
+        "freguesia_id": 711,
+        "concelho_id": 71,
+        "ilha_id": 7
+    },
+    {
+        "id": 81105,
+        "zona": "FEIJOAL",
+        "freguesia_id": 811,
+        "concelho_id": 81,
+        "ilha_id": 8
+    },
+    {
+        "id": 61104,
+        "zona": "FIGUEIRA",
+        "freguesia_id": 611,
+        "concelho_id": 61,
+        "ilha_id": 6
+    },
+    {
+        "id": 72120,
+        "zona": "FIGUEIRA DAS NAUS",
+        "freguesia_id": 721,
+        "concelho_id": 72,
+        "ilha_id": 7
+    },
+    {
+        "id": 31212,
+        "zona": "FIGUEIRA DE COCHO",
+        "freguesia_id": 312,
+        "concelho_id": 31,
+        "ilha_id": 3
+    },
+    {
+        "id": 71111,
+        "zona": "FIGUEIRA MUITA",
+        "freguesia_id": 711,
+        "concelho_id": 71,
+        "ilha_id": 7
+    },
+    {
+        "id": 83105,
+        "zona": "FIGUEIRA PAVAO",
+        "freguesia_id": 831,
+        "concelho_id": 83,
+        "ilha_id": 8
+    },
+    {
+        "id": 11308,
+        "zona": "FIGUEIRAL",
+        "freguesia_id": 113,
+        "concelho_id": 11,
+        "ilha_id": 1
+    },
+    {
+        "id": 12110,
+        "zona": "FIGUEIRAL",
+        "freguesia_id": 121,
+        "concelho_id": 12,
+        "ilha_id": 1
+    },
+    {
+        "id": 11402,
+        "zona": "FIGUEIRAS",
+        "freguesia_id": 114,
+        "concelho_id": 11,
+        "ilha_id": 1
+    },
+    {
+        "id": 32102,
+        "zona": "FONTAINHAS",
+        "freguesia_id": 321,
+        "concelho_id": 32,
+        "ilha_id": 3
+    },
+    {
+        "id": 11201,
+        "zona": "FONTAINHAS",
+        "freguesia_id": 112,
+        "concelho_id": 11,
+        "ilha_id": 1
+    },
+    {
+        "id": 83106,
+        "zona": "FONTE ALEIXO",
+        "freguesia_id": 831,
+        "concelho_id": 83,
+        "ilha_id": 8
+    },
+    {
+        "id": 75206,
+        "zona": "FONTE ALMEIDA",
+        "freguesia_id": 752,
+        "concelho_id": 75,
+        "ilha_id": 7
+    },
+    {
+        "id": 72122,
+        "zona": "FONTE LIMA",
+        "freguesia_id": 721,
+        "concelho_id": 72,
+        "ilha_id": 7
+    },
+    {
+        "id": 72121,
+        "zona": "FONTEANA",
+        "freguesia_id": 721,
+        "concelho_id": 72,
+        "ilha_id": 7
+    },
+    {
+        "id": 32103,
+        "zona": "FRAGATA",
+        "freguesia_id": 321,
+        "concelho_id": 32,
+        "ilha_id": 3
+    },
+    {
+        "id": 51102,
+        "zona": "FUNDO DAS FIGUEIRAS",
+        "freguesia_id": 511,
+        "concelho_id": 51,
+        "ilha_id": 5
+    },
+    {
+        "id": 78103,
+        "zona": "FUNDURA",
+        "freguesia_id": 781,
+        "concelho_id": 78,
+        "ilha_id": 7
+    },
+    {
+        "id": 72153,
+        "zona": "FUNDURA",
+        "freguesia_id": 721,
+        "concelho_id": 72,
+        "ilha_id": 7
+    },
+    {
+        "id": 72123,
+        "zona": "FURNA",
+        "freguesia_id": 721,
+        "concelho_id": 72,
+        "ilha_id": 7
+    },
+    {
+        "id": 91102,
+        "zona": "FURNA",
+        "freguesia_id": 911,
+        "concelho_id": 91,
+        "ilha_id": 9
+    },
+    {
+        "id": 82105,
+        "zona": "GALINHEIRO",
+        "freguesia_id": 821,
+        "concelho_id": 82,
+        "ilha_id": 8
+    },
+    {
+        "id": 72124,
+        "zona": "GAMCHEMBA",
+        "freguesia_id": 721,
+        "concelho_id": 72,
+        "ilha_id": 7
+    },
+    {
+        "id": 11403,
+        "zona": "GARCA DE CIMA",
+        "freguesia_id": 114,
+        "concelho_id": 11,
+        "ilha_id": 1
+    },
+    {
+        "id": 72125,
+        "zona": "GIL BISPO",
+        "freguesia_id": 721,
+        "concelho_id": 72,
+        "ilha_id": 7
+    },
+    {
+        "id": 76108,
+        "zona": "GONGON",
+        "freguesia_id": 761,
+        "concelho_id": 76,
+        "ilha_id": 7
+    },
+    {
+        "id": 79206,
+        "zona": "GOUVEIA",
+        "freguesia_id": 792,
+        "concelho_id": 79,
+        "ilha_id": 7
+    },
+    {
+        "id": 75207,
+        "zona": "GUDIM",
+        "freguesia_id": 752,
+        "concelho_id": 75,
+        "ilha_id": 7
+    },
+    {
+        "id": 32104,
+        "zona": "HORTELA",
+        "freguesia_id": 321,
+        "concelho_id": 32,
+        "ilha_id": 3
+    },
+    {
+        "id": 76124,
+        "zona": "IGREJA",
+        "freguesia_id": 761,
+        "concelho_id": 76,
+        "ilha_id": 7
+    },
+    {
+        "id": 82106,
+        "zona": "INHUCO",
+        "freguesia_id": 821,
+        "concelho_id": 82,
+        "ilha_id": 8
+    },
+    {
+        "id": 77109,
+        "zona": "JALALO RAMOS",
+        "freguesia_id": 771,
+        "concelho_id": 77,
+        "ilha_id": 7
+    },
+    {
+        "id": 12111,
+        "zona": "JANELA",
+        "freguesia_id": 121,
+        "concelho_id": 12,
+        "ilha_id": 1
+    },
+    {
+        "id": 72126,
+        "zona": "JAPLUMA",
+        "freguesia_id": 721,
+        "concelho_id": 72,
+        "ilha_id": 7
+    },
+    {
+        "id": 11309,
+        "zona": "JOAO AFONSO",
+        "freguesia_id": 113,
+        "concelho_id": 11,
+        "ilha_id": 1
+    },
+    {
+        "id": 13115,
+        "zona": "JOAO BENTO / RIBEIRA DOS BODES",
+        "freguesia_id": 131,
+        "concelho_id": 13,
+        "ilha_id": 1
+    },
+    {
+        "id": 72127,
+        "zona": "JOAO BERNARDO",
+        "freguesia_id": 721,
+        "concelho_id": 72,
+        "ilha_id": 7
+    },
+    {
+        "id": 91103,
+        "zona": "JOAO DA NOLY",
+        "freguesia_id": 911,
+        "concelho_id": 91,
+        "ilha_id": 9
+    },
+    {
+        "id": 72128,
+        "zona": "JOAO DIAS",
+        "freguesia_id": 721,
+        "concelho_id": 72,
+        "ilha_id": 7
+    },
+    {
+        "id": 51103,
+        "zona": "JOÃO GALEGO",
+        "freguesia_id": 511,
+        "concelho_id": 51,
+        "ilha_id": 5
+    },
+    {
+        "id": 78104,
+        "zona": "JOAO GOTO",
+        "freguesia_id": 781,
+        "concelho_id": 78,
+        "ilha_id": 7
+    },
+    {
+        "id": 79103,
+        "zona": "JOAO VARELA",
+        "freguesia_id": 791,
+        "concelho_id": 79,
+        "ilha_id": 7
+    },
+    {
+        "id": 13204,
+        "zona": "JORGE LUIS",
+        "freguesia_id": 132,
+        "concelho_id": 13,
+        "ilha_id": 1
+    },
+    {
+        "id": 73108,
+        "zona": "JULANGUE",
+        "freguesia_id": 731,
+        "concelho_id": 73,
+        "ilha_id": 7
+    },
+    {
+        "id": 31217,
+        "zona": "JUNCALINHO",
+        "freguesia_id": 312,
+        "concelho_id": 31,
+        "ilha_id": 3
+    },
+    {
+        "id": 72129,
+        "zona": "JUNCO",
+        "freguesia_id": 721,
+        "concelho_id": 72,
+        "ilha_id": 7
+    },
+    {
+        "id": 82204,
+        "zona": "LAGARICA",
+        "freguesia_id": 822,
+        "concelho_id": 82,
+        "ilha_id": 8
+    },
+    {
+        "id": 78106,
+        "zona": "LAGE",
+        "freguesia_id": 781,
+        "concelho_id": 78,
+        "ilha_id": 7
+    },
+    {
+        "id": 13107,
+        "zona": "LAGOA",
+        "freguesia_id": 131,
+        "concelho_id": 13,
+        "ilha_id": 1
+    },
+    {
+        "id": 71112,
+        "zona": "LAGOA",
+        "freguesia_id": 711,
+        "concelho_id": 71,
+        "ilha_id": 7
+    },
+    {
+        "id": 75208,
+        "zona": "LAGOA",
+        "freguesia_id": 752,
+        "concelho_id": 75,
+        "ilha_id": 7
+    },
+    {
+        "id": 11404,
+        "zona": "LAGOA I",
+        "freguesia_id": 114,
+        "concelho_id": 11,
+        "ilha_id": 1
+    },
+    {
+        "id": 13106,
+        "zona": "LAGOA II",
+        "freguesia_id": 131,
+        "concelho_id": 13,
+        "ilha_id": 1
+    },
+    {
+        "id": 11310,
+        "zona": "LAGOA III",
+        "freguesia_id": 113,
+        "concelho_id": 11,
+        "ilha_id": 1
+    },
+    {
+        "id": 13108,
+        "zona": "LAJEDO",
+        "freguesia_id": 131,
+        "concelho_id": 13,
+        "ilha_id": 1
+    },
+    {
+        "id": 21102,
+        "zona": "LAMEIRAO",
+        "freguesia_id": 211,
+        "concelho_id": 21,
+        "ilha_id": 2
+    },
+    {
+        "id": 77111,
+        "zona": "LEITAO GRANDE",
+        "freguesia_id": 771,
+        "concelho_id": 77,
+        "ilha_id": 7
+    },
+    {
+        "id": 77112,
+        "zona": "LEITAOZINHO",
+        "freguesia_id": 771,
+        "concelho_id": 77,
+        "ilha_id": 7
+    },
+    {
+        "id": 74111,
+        "zona": "LEM DIAS",
+        "freguesia_id": 741,
+        "concelho_id": 74,
+        "ilha_id": 7
+    },
+    {
+        "id": 91104,
+        "zona": "LEM RURAL",
+        "freguesia_id": 911,
+        "concelho_id": 91,
+        "ilha_id": 9
+    },
+    {
+        "id": 78107,
+        "zona": "LEVADA",
+        "freguesia_id": 781,
+        "concelho_id": 78,
+        "ilha_id": 7
+    },
+    {
+        "id": 73109,
+        "zona": "LIBRAO",
+        "freguesia_id": 731,
+        "concelho_id": 73,
+        "ilha_id": 7
+    },
+    {
+        "id": 72130,
+        "zona": "LIBRAO",
+        "freguesia_id": 721,
+        "concelho_id": 72,
+        "ilha_id": 7
+    },
+    {
+        "id": 82107,
+        "zona": "LOMBA",
+        "freguesia_id": 821,
+        "concelho_id": 82,
+        "ilha_id": 8
+    },
+    {
+        "id": 91206,
+        "zona": "LOMBA TAMTUM",
+        "freguesia_id": 912,
+        "concelho_id": 91,
+        "ilha_id": 9
+    },
+    {
+        "id": 11102,
+        "zona": "LOMBO BRANCO",
+        "freguesia_id": 111,
+        "concelho_id": 11,
+        "ilha_id": 1
+    },
+    {
+        "id": 13109,
+        "zona": "LOMBO DAS LANCAS",
+        "freguesia_id": 131,
+        "concelho_id": 13,
+        "ilha_id": 1
+    },
+    {
+        "id": 13110,
+        "zona": "LOMBO DE FIGUEIRA",
+        "freguesia_id": 131,
+        "concelho_id": 13,
+        "ilha_id": 1
+    },
+    {
+        "id": 11311,
+        "zona": "LOMBO SANTA",
+        "freguesia_id": 113,
+        "concelho_id": 11,
+        "ilha_id": 1
+    },
+    {
+        "id": 31218,
+        "zona": "LOMPELADO",
+        "freguesia_id": 312,
+        "concelho_id": 31,
+        "ilha_id": 3
+    },
+    {
+        "id": 78108,
+        "zona": "LONGUEIRA",
+        "freguesia_id": 781,
+        "concelho_id": 78,
+        "ilha_id": 7
+    },
+    {
+        "id": 79207,
+        "zona": "LOURA",
+        "freguesia_id": 792,
+        "concelho_id": 79,
+        "ilha_id": 7
+    },
+    {
+        "id": 11103,
+        "zona": "LUGAR DE GUENE",
+        "freguesia_id": 111,
+        "concelho_id": 11,
+        "ilha_id": 1
+    },
+    {
+        "id": 72131,
+        "zona": "LUGAR VELHO",
+        "freguesia_id": 721,
+        "concelho_id": 72,
+        "ilha_id": 7
+    },
+    {
+        "id": 82205,
+        "zona": "LUZIA NUNES",
+        "freguesia_id": 822,
+        "concelho_id": 82,
+        "ilha_id": 8
+    },
+    {
+        "id": 76109,
+        "zona": "MACHADO",
+        "freguesia_id": 761,
+        "concelho_id": 76,
+        "ilha_id": 7
+    },
+    {
+        "id": 72132,
+        "zona": "MANCHOLY",
+        "freguesia_id": 721,
+        "concelho_id": 72,
+        "ilha_id": 7
+    },
+    {
+        "id": 77113,
+        "zona": "MANHANGA",
+        "freguesia_id": 771,
+        "concelho_id": 77,
+        "ilha_id": 7
+    },
+    {
+        "id": 13111,
+        "zona": "MANUEL LOPES",
+        "freguesia_id": 131,
+        "concelho_id": 13,
+        "ilha_id": 1
+    },
+    {
+        "id": 13205,
+        "zona": "MARTIENE",
+        "freguesia_id": 132,
+        "concelho_id": 13,
+        "ilha_id": 1
+    },
+    {
+        "id": 73110,
+        "zona": "MATINHO",
+        "freguesia_id": 731,
+        "concelho_id": 73,
+        "ilha_id": 7
+    },
+    {
+        "id": 91207,
+        "zona": "MATO",
+        "freguesia_id": 912,
+        "concelho_id": 91,
+        "ilha_id": 9
+    },
+    {
+        "id": 75209,
+        "zona": "MATO AFONSO",
+        "freguesia_id": 752,
+        "concelho_id": 75,
+        "ilha_id": 7
+    },
+    {
+        "id": 72133,
+        "zona": "MATO BAIXO",
+        "freguesia_id": 721,
+        "concelho_id": 72,
+        "ilha_id": 7
+    },
+    {
+        "id": 71113,
+        "zona": "MATO BRAZIL",
+        "freguesia_id": 711,
+        "concelho_id": 71,
+        "ilha_id": 7
+    },
+    {
+        "id": 76110,
+        "zona": "MATO CORREIA",
+        "freguesia_id": 761,
+        "concelho_id": 76,
+        "ilha_id": 7
+    },
+    {
+        "id": 13112,
+        "zona": "MATO ESTREITO",
+        "freguesia_id": 131,
+        "concelho_id": 13,
+        "ilha_id": 1
+    },
+    {
+        "id": 77114,
+        "zona": "MATO FORTES",
+        "freguesia_id": 771,
+        "concelho_id": 77,
+        "ilha_id": 7
+    },
+    {
+        "id": 72134,
+        "zona": "MATO GEGE",
+        "freguesia_id": 721,
+        "concelho_id": 72,
+        "ilha_id": 7
+    },
+    {
+        "id": 91105,
+        "zona": "MATO GRANDE",
+        "freguesia_id": 911,
+        "concelho_id": 91,
+        "ilha_id": 9
+    },
+    {
+        "id": 77115,
+        "zona": "MATO LIMAO",
+        "freguesia_id": 771,
+        "concelho_id": 77,
+        "ilha_id": 7
+    },
+    {
+        "id": 71114,
+        "zona": "MATO MENDES",
+        "freguesia_id": 711,
+        "concelho_id": 71,
+        "ilha_id": 7
+    },
+    {
+        "id": 72135,
+        "zona": "MATO SANCHO",
+        "freguesia_id": 721,
+        "concelho_id": 72,
+        "ilha_id": 7
+    },
+    {
+        "id": 75210,
+        "zona": "MENDES FALEIRO CABRAL",
+        "freguesia_id": 752,
+        "concelho_id": 75,
+        "ilha_id": 7
+    },
+    {
+        "id": 75211,
+        "zona": "MENDES FALEIRO RENDEIRO",
+        "freguesia_id": 752,
+        "concelho_id": 75,
+        "ilha_id": 7
+    },
+    {
+        "id": 75106,
+        "zona": "MILHO BRANCO",
+        "freguesia_id": 751,
+        "concelho_id": 75,
+        "ilha_id": 7
+    },
+    {
+        "id": 71115,
+        "zona": "MILHO BRANCO",
+        "freguesia_id": 711,
+        "concelho_id": 71,
+        "ilha_id": 7
+    },
+    {
+        "id": 78109,
+        "zona": "MONTANHA",
+        "freguesia_id": 781,
+        "concelho_id": 78,
+        "ilha_id": 7
+    },
+    {
+        "id": 78115,
+        "zona": "MONTANHINHA",
+        "freguesia_id": 781,
+        "concelho_id": 78,
+        "ilha_id": 7
+    },
+    {
+        "id": 76111,
+        "zona": "MONTE BODE",
+        "freguesia_id": 761,
+        "concelho_id": 76,
+        "ilha_id": 7
+    },
+    {
+        "id": 82207,
+        "zona": "MONTE GRANDE",
+        "freguesia_id": 822,
+        "concelho_id": 82,
+        "ilha_id": 8
+    },
+    {
+        "id": 11104,
+        "zona": "MONTE JOANA",
+        "freguesia_id": 111,
+        "concelho_id": 11,
+        "ilha_id": 1
+    },
+    {
+        "id": 82206,
+        "zona": "MONTE LARGO",
+        "freguesia_id": 822,
+        "concelho_id": 82,
+        "ilha_id": 8
+    },
+    {
+        "id": 73111,
+        "zona": "MONTE NEGRO",
+        "freguesia_id": 731,
+        "concelho_id": 73,
+        "ilha_id": 7
+    },
+    {
+        "id": 76112,
+        "zona": "MONTE POUSADA",
+        "freguesia_id": 761,
+        "concelho_id": 76,
+        "ilha_id": 7
+    },
+    {
+        "id": 82108,
+        "zona": "MONTE TABOR",
+        "freguesia_id": 821,
+        "concelho_id": 82,
+        "ilha_id": 8
+    },
+    {
+        "id": 13206,
+        "zona": "MONTE TRIGO",
+        "freguesia_id": 132,
+        "concelho_id": 13,
+        "ilha_id": 1
+    },
+    {
+        "id": 61105,
+        "zona": "MORRINHO",
+        "freguesia_id": 611,
+        "concelho_id": 61,
+        "ilha_id": 6
+    },
+    {
+        "id": 61106,
+        "zona": "MORRO",
+        "freguesia_id": 611,
+        "concelho_id": 61,
+        "ilha_id": 6
+    },
+    {
+        "id": 31219,
+        "zona": "MORRO",
+        "freguesia_id": 312,
+        "concelho_id": 31,
+        "ilha_id": 3
+    },
+    {
+        "id": 31220,
+        "zona": "MORRO ALTO",
+        "freguesia_id": 312,
+        "concelho_id": 31,
+        "ilha_id": 3
+    },
+    {
+        "id": 31221,
+        "zona": "MORRO BRAZ",
+        "freguesia_id": 312,
+        "concelho_id": 31,
+        "ilha_id": 3
+    },
+    {
+        "id": 13113,
+        "zona": "MORRO VENTO",
+        "freguesia_id": 131,
+        "concelho_id": 13,
+        "ilha_id": 1
+    },
+    {
+        "id": 79208,
+        "zona": "MOSQUITO D'HORTA",
+        "freguesia_id": 792,
+        "concelho_id": 79,
+        "ilha_id": 7
+    },
+    {
+        "id": 81107,
+        "zona": "MOSTEIROS TRAS",
+        "freguesia_id": 811,
+        "concelho_id": 81,
+        "ilha_id": 8
+    },
+    {
+        "id": 81114,
+        "zona": "MURRO",
+        "freguesia_id": 811,
+        "concelho_id": 81,
+        "ilha_id": 8
+    },
+    {
+        "id": 75212,
+        "zona": "NORA",
+        "freguesia_id": 752,
+        "concelho_id": 75,
+        "ilha_id": 7
+    },
+    {
+        "id": 13207,
+        "zona": "NORTE",
+        "freguesia_id": 132,
+        "concelho_id": 13,
+        "ilha_id": 1
+    },
+    {
+        "id": 91208,
+        "zona": "NOSSA SENHORA DO MONTE",
+        "freguesia_id": 912,
+        "concelho_id": 91,
+        "ilha_id": 9
+    },
+    {
+        "id": 78110,
+        "zona": "ORGAOS PEQUENO",
+        "freguesia_id": 781,
+        "concelho_id": 78,
+        "ilha_id": 7
+    },
+    {
+        "id": 81108,
+        "zona": "PAI ANTONIO",
+        "freguesia_id": 811,
+        "concelho_id": 81,
+        "ilha_id": 8
+    },
+    {
+        "id": 76113,
+        "zona": "PALHA CARGA",
+        "freguesia_id": 761,
+        "concelho_id": 76,
+        "ilha_id": 7
+    },
+    {
+        "id": 72136,
+        "zona": "PALHA CARGA",
+        "freguesia_id": 721,
+        "concelho_id": 72,
+        "ilha_id": 7
+    },
+    {
+        "id": 32105,
+        "zona": "PALHAL",
+        "freguesia_id": 321,
+        "concelho_id": 32,
+        "ilha_id": 3
+    },
+    {
+        "id": 74105,
+        "zona": "PALMAREJO GRANDE",
+        "freguesia_id": 741,
+        "concelho_id": 74,
+        "ilha_id": 7
+    },
+    {
+        "id": 41101,
+        "zona": "PALMEIRA",
+        "freguesia_id": 411,
+        "concelho_id": 41,
+        "ilha_id": 4
+    },
+    {
+        "id": 72137,
+        "zona": "PATA BRAVA",
+        "freguesia_id": 721,
+        "concelho_id": 72,
+        "ilha_id": 7
+    },
+    {
+        "id": 82208,
+        "zona": "PATIM",
+        "freguesia_id": 822,
+        "concelho_id": 82,
+        "ilha_id": 8
+    },
+    {
+        "id": 72138,
+        "zona": "PAU VERDE",
+        "freguesia_id": 721,
+        "concelho_id": 72,
+        "ilha_id": 7
+    },
+    {
+        "id": 76114,
+        "zona": "PEDRA BARRO",
+        "freguesia_id": 761,
+        "concelho_id": 76,
+        "ilha_id": 7
+    },
+    {
+        "id": 72139,
+        "zona": "PEDRA BARRO",
+        "freguesia_id": 721,
+        "concelho_id": 72,
+        "ilha_id": 7
+    },
+    {
+        "id": 13114,
+        "zona": "PEDRA DE JORGE",
+        "freguesia_id": 131,
+        "concelho_id": 13,
+        "ilha_id": 1
+    },
+    {
+        "id": 41102,
+        "zona": "PEDRA DO LUME",
+        "freguesia_id": 411,
+        "concelho_id": 41,
+        "ilha_id": 4
+    },
+    {
+        "id": 78112,
+        "zona": "PEDRA MOLAR",
+        "freguesia_id": 781,
+        "concelho_id": 78,
+        "ilha_id": 7
+    },
+    {
+        "id": 76115,
+        "zona": "PEDRA SERRADO",
+        "freguesia_id": 761,
+        "concelho_id": 76,
+        "ilha_id": 7
+    },
+    {
+        "id": 74106,
+        "zona": "PEDREGAL",
+        "freguesia_id": 741,
+        "concelho_id": 74,
+        "ilha_id": 7
+    },
+    {
+        "id": 61107,
+        "zona": "PEDRO VAZ",
+        "freguesia_id": 611,
+        "concelho_id": 61,
+        "ilha_id": 6
+    },
+    {
+        "id": 78111,
+        "zona": "PICO ANTONIA",
+        "freguesia_id": 781,
+        "concelho_id": 78,
+        "ilha_id": 7
+    },
+    {
+        "id": 12104,
+        "zona": "PICO DA CRUZ",
+        "freguesia_id": 121,
+        "concelho_id": 12,
+        "ilha_id": 1
+    },
+    {
+        "id": 77117,
+        "zona": "PICO FREIRE",
+        "freguesia_id": 771,
+        "concelho_id": 77,
+        "ilha_id": 7
+    },
+    {
+        "id": 79210,
+        "zona": "PICO LEAO",
+        "freguesia_id": 792,
+        "concelho_id": 79,
+        "ilha_id": 7
+    },
+    {
+        "id": 77116,
+        "zona": "PICOS ACIMA",
+        "freguesia_id": 771,
+        "concelho_id": 77,
+        "ilha_id": 7
+    },
+    {
+        "id": 76116,
+        "zona": "PILAO CAO",
+        "freguesia_id": 761,
+        "concelho_id": 76,
+        "ilha_id": 7
+    },
+    {
+        "id": 61112,
+        "zona": "PILÃO CÃO",
+        "freguesia_id": 611,
+        "concelho_id": 61,
+        "ilha_id": 6
+    },
+    {
+        "id": 61108,
+        "zona": "PILÃO CÃO / ALCATRAZ",
+        "freguesia_id": 611,
+        "concelho_id": 61,
+        "ilha_id": 6
+    },
+    {
+        "id": 72141,
+        "zona": "PINGO CHUVA",
+        "freguesia_id": 721,
+        "concelho_id": 72,
+        "ilha_id": 7
+    },
+    {
+        "id": 72142,
+        "zona": "PINHA DOS ENGENHOS",
+        "freguesia_id": 721,
+        "concelho_id": 72,
+        "ilha_id": 7
+    },
+    {
+        "id": 11105,
+        "zona": "PINHAO",
+        "freguesia_id": 111,
+        "concelho_id": 11,
+        "ilha_id": 1
+    },
+    {
+        "id": 75213,
+        "zona": "PO DE SACO",
+        "freguesia_id": 752,
+        "concelho_id": 75,
+        "ilha_id": 7
+    },
+    {
+        "id": 78113,
+        "zona": "POILAO CABRAL",
+        "freguesia_id": 781,
+        "concelho_id": 78,
+        "ilha_id": 7
+    },
+    {
+        "id": 74112,
+        "zona": "PONTA DO SOL",
+        "freguesia_id": 741,
+        "concelho_id": 74,
+        "ilha_id": 7
+    },
+    {
+        "id": 71116,
+        "zona": "PONTA LOBRAO",
+        "freguesia_id": 711,
+        "concelho_id": 71,
+        "ilha_id": 7
+    },
+    {
+        "id": 76117,
+        "zona": "PONTA VERDE",
+        "freguesia_id": 761,
+        "concelho_id": 76,
+        "ilha_id": 7
+    },
+    {
+        "id": 82109,
+        "zona": "PONTA VERDE",
+        "freguesia_id": 821,
+        "concelho_id": 82,
+        "ilha_id": 8
+    },
+    {
+        "id": 75107,
+        "zona": "PORTAL",
+        "freguesia_id": 751,
+        "concelho_id": 75,
+        "ilha_id": 7
+    },
+    {
+        "id": 73112,
+        "zona": "PORTO MADEIRA",
+        "freguesia_id": 731,
+        "concelho_id": 73,
+        "ilha_id": 7
+    },
+    {
+        "id": 79211,
+        "zona": "PORTO MOSQUITO",
+        "freguesia_id": 792,
+        "concelho_id": 79,
+        "ilha_id": 7
+    },
+    {
+        "id": 51203,
+        "zona": "POVOAÇÃO VELHA",
+        "freguesia_id": 512,
+        "concelho_id": 51,
+        "ilha_id": 5
+    },
+    {
+        "id": 75108,
+        "zona": "PRAIA BAIXO",
+        "freguesia_id": 751,
+        "concelho_id": 75,
+        "ilha_id": 7
+    },
+    {
+        "id": 32106,
+        "zona": "PRAIA BRANCA",
+        "freguesia_id": 321,
+        "concelho_id": 32,
+        "ilha_id": 3
+    },
+    {
+        "id": 75109,
+        "zona": "PRAIA FORMOSA",
+        "freguesia_id": 751,
+        "concelho_id": 75,
+        "ilha_id": 7
+    },
+    {
+        "id": 61109,
+        "zona": "PRAIA GONÇALO",
+        "freguesia_id": 611,
+        "concelho_id": 61,
+        "ilha_id": 6
+    },
+    {
+        "id": 31224,
+        "zona": "PREGUICA",
+        "freguesia_id": 312,
+        "concelho_id": 31,
+        "ilha_id": 3
+    },
+    {
+        "id": 76118,
+        "zona": "PRINCIPAL",
+        "freguesia_id": 761,
+        "concelho_id": 76,
+        "ilha_id": 7
+    },
+    {
+        "id": 77118,
+        "zona": "PURGUEIRA",
+        "freguesia_id": 771,
+        "concelho_id": 77,
+        "ilha_id": 7
+    },
+    {
+        "id": 81109,
+        "zona": "QUEIMADA GUINCHO",
+        "freguesia_id": 811,
+        "concelho_id": 81,
+        "ilha_id": 8
+    },
+    {
+        "id": 31104,
+        "zona": "QUEIMADAS",
+        "freguesia_id": 311,
+        "concelho_id": 31,
+        "ilha_id": 3
+    },
+    {
+        "id": 51204,
+        "zona": "RABIL",
+        "freguesia_id": 512,
+        "concelho_id": 51,
+        "ilha_id": 5
+    },
+    {
+        "id": 77119,
+        "zona": "REBELO",
+        "freguesia_id": 771,
+        "concelho_id": 77,
+        "ilha_id": 7
+    },
+    {
+        "id": 73113,
+        "zona": "REBELO",
+        "freguesia_id": 731,
+        "concelho_id": 73,
+        "ilha_id": 7
+    },
+    {
+        "id": 81110,
+        "zona": "RELVA",
+        "freguesia_id": 811,
+        "concelho_id": 81,
+        "ilha_id": 8
+    },
+    {
+        "id": 73114,
+        "zona": "RENQUE PURGA",
+        "freguesia_id": 731,
+        "concelho_id": 73,
+        "ilha_id": 7
+    },
+    {
+        "id": 72143,
+        "zona": "RIBEIRA ACIMA",
+        "freguesia_id": 721,
+        "concelho_id": 72,
+        "ilha_id": 7
+    },
+    {
+        "id": 11405,
+        "zona": "RIBEIRA ALTA",
+        "freguesia_id": 114,
+        "concelho_id": 11,
+        "ilha_id": 1
+    },
+    {
+        "id": 72144,
+        "zona": "RIBEIRA DA BARCA",
+        "freguesia_id": 721,
+        "concelho_id": 72,
+        "ilha_id": 7
+    },
+    {
+        "id": 13208,
+        "zona": "RIBEIRA DA CRUZ",
+        "freguesia_id": 132,
+        "concelho_id": 13,
+        "ilha_id": 1
+    },
+    {
+        "id": 71117,
+        "zona": "RIBEIRA DA PRATA",
+        "freguesia_id": 711,
+        "concelho_id": 71,
+        "ilha_id": 7
+    },
+    {
+        "id": 21104,
+        "zona": "RIBEIRA DA VINHA",
+        "freguesia_id": 211,
+        "concelho_id": 21,
+        "ilha_id": 2
+    },
+    {
+        "id": 12105,
+        "zona": "RIBEIRA DAS POMBAS",
+        "freguesia_id": 121,
+        "concelho_id": 12,
+        "ilha_id": 1
+    },
+    {
+        "id": 21105,
+        "zona": "RIBEIRA DE CALHAU",
+        "freguesia_id": 211,
+        "concelho_id": 21,
+        "ilha_id": 2
+    },
+    {
+        "id": 81111,
+        "zona": "RIBEIRA DO ILHEU",
+        "freguesia_id": 811,
+        "concelho_id": 81,
+        "ilha_id": 8
+    },
+    {
+        "id": 61110,
+        "zona": "RIBEIRA DOM JOAO",
+        "freguesia_id": 611,
+        "concelho_id": 61,
+        "ilha_id": 6
+    },
+    {
+        "id": 32107,
+        "zona": "RIBEIRA DOS CALHAUS",
+        "freguesia_id": 321,
+        "concelho_id": 32,
+        "ilha_id": 3
+    },
+    {
+        "id": 82110,
+        "zona": "RIBEIRA FILIPE",
+        "freguesia_id": 821,
+        "concelho_id": 82,
+        "ilha_id": 8
+    },
+    {
+        "id": 13116,
+        "zona": "RIBEIRA FRIA",
+        "freguesia_id": 131,
+        "concelho_id": 13,
+        "ilha_id": 1
+    },
+    {
+        "id": 31105,
+        "zona": "RIBEIRA FUNDA",
+        "freguesia_id": 311,
+        "concelho_id": 31,
+        "ilha_id": 3
+    },
+    {
+        "id": 21103,
+        "zona": "RIBEIRA JULIÃO",
+        "freguesia_id": 211,
+        "concelho_id": 21,
+        "ilha_id": 2
+    },
+    {
+        "id": 32108,
+        "zona": "RIBEIRA PRATA",
+        "freguesia_id": 321,
+        "concelho_id": 32,
+        "ilha_id": 3
+    },
+    {
+        "id": 73115,
+        "zona": "RIBEIRA SECA",
+        "freguesia_id": 731,
+        "concelho_id": 73,
+        "ilha_id": 7
+    },
+    {
+        "id": 13117,
+        "zona": "RIBEIRA TORTA",
+        "freguesia_id": 131,
+        "concelho_id": 13,
+        "ilha_id": 1
+    },
+    {
+        "id": 11312,
+        "zona": "RIBEIRAO",
+        "freguesia_id": 113,
+        "concelho_id": 11,
+        "ilha_id": 1
+    },
+    {
+        "id": 73116,
+        "zona": "RIBEIRAO ALMACO",
+        "freguesia_id": 731,
+        "concelho_id": 73,
+        "ilha_id": 7
+    },
+    {
+        "id": 73117,
+        "zona": "RIBEIRAO BOI",
+        "freguesia_id": 731,
+        "concelho_id": 73,
+        "ilha_id": 7
+    },
+    {
+        "id": 75214,
+        "zona": "RIBEIRAO CHIQUEIRO",
+        "freguesia_id": 752,
+        "concelho_id": 75,
+        "ilha_id": 7
+    },
+    {
+        "id": 13118,
+        "zona": "RIBEIRAO FUNDO",
+        "freguesia_id": 131,
+        "concelho_id": 13,
+        "ilha_id": 1
+    },
+    {
+        "id": 72145,
+        "zona": "RIBEIRAO ISABEL",
+        "freguesia_id": 721,
+        "concelho_id": 72,
+        "ilha_id": 7
+    },
+    {
+        "id": 72146,
+        "zona": "RIBEIRAO MANUEL",
+        "freguesia_id": 721,
+        "concelho_id": 72,
+        "ilha_id": 7
+    },
+    {
+        "id": 76119,
+        "zona": "RIBEIRAO MILHO",
+        "freguesia_id": 761,
+        "concelho_id": 76,
+        "ilha_id": 7
+    },
+    {
+        "id": 71118,
+        "zona": "RIBEIRAO SAL",
+        "freguesia_id": 711,
+        "concelho_id": 71,
+        "ilha_id": 7
+    },
+    {
+        "id": 12106,
+        "zona": "RIBEIRAOZINHO",
+        "freguesia_id": 121,
+        "concelho_id": 12,
+        "ilha_id": 1
+    },
+    {
+        "id": 76120,
+        "zona": "RIBEIRETA",
+        "freguesia_id": 761,
+        "concelho_id": 76,
+        "ilha_id": 7
+    },
+    {
+        "id": 72147,
+        "zona": "RINCAO",
+        "freguesia_id": 721,
+        "concelho_id": 72,
+        "ilha_id": 7
+    },
+    {
+        "id": 75215,
+        "zona": "ROBAO DE CAL",
+        "freguesia_id": 752,
+        "concelho_id": 75,
+        "ilha_id": 7
+    },
+    {
+        "id": 83107,
+        "zona": "ROCADAS",
+        "freguesia_id": 831,
+        "concelho_id": 83,
+        "ilha_id": 8
+    },
+    {
+        "id": 81113,
+        "zona": "ROCHA FORA",
+        "freguesia_id": 811,
+        "concelho_id": 81,
+        "ilha_id": 8
+    },
+    {
+        "id": 73118,
+        "zona": "ROCHA LAMA",
+        "freguesia_id": 731,
+        "concelho_id": 73,
+        "ilha_id": 7
+    },
+    {
+        "id": 75216,
+        "zona": "RUI VAZ",
+        "freguesia_id": 752,
+        "concelho_id": 75,
+        "ilha_id": 7
+    },
+    {
+        "id": 21106,
+        "zona": "SALAMANSA",
+        "freguesia_id": 211,
+        "concelho_id": 21,
+        "ilha_id": 2
+    },
+    {
+        "id": 79105,
+        "zona": "SALINEIRO",
+        "freguesia_id": 791,
+        "concelho_id": 79,
+        "ilha_id": 7
+    },
+    {
+        "id": 82209,
+        "zona": "SALTO",
+        "freguesia_id": 822,
+        "concelho_id": 82,
+        "ilha_id": 8
+    },
+    {
+        "id": 73119,
+        "zona": "SALTOS ABAIXO",
+        "freguesia_id": 731,
+        "concelho_id": 73,
+        "ilha_id": 7
+    },
+    {
+        "id": 72148,
+        "zona": "SALTOS ACIMA",
+        "freguesia_id": 721,
+        "concelho_id": 72,
+        "ilha_id": 7
+    },
+    {
+        "id": 91106,
+        "zona": "SANTA BARBARA",
+        "freguesia_id": 911,
+        "concelho_id": 91,
+        "ilha_id": 9
+    },
+    {
+        "id": 73120,
+        "zona": "SANTA CRUZ",
+        "freguesia_id": 731,
+        "concelho_id": 73,
+        "ilha_id": 7
+    },
+    {
+        "id": 12107,
+        "zona": "SANTA ISABEL",
+        "freguesia_id": 121,
+        "concelho_id": 12,
+        "ilha_id": 1
+    },
+    {
+        "id": 79212,
+        "zona": "SANTANA",
+        "freguesia_id": 792,
+        "concelho_id": 79,
+        "ilha_id": 7
+    },
+    {
+        "id": 61113,
+        "zona": "SANTO ANTÓNIO",
+        "freguesia_id": 611,
+        "concelho_id": 61,
+        "ilha_id": 6
+    },
+    {
+        "id": 82112,
+        "zona": "SANTO ANTÓNIO",
+        "freguesia_id": 821,
+        "concelho_id": 82,
+        "ilha_id": 8
+    },
+    {
+        "id": 73121,
+        "zona": "SÃO CRISTOVAO",
+        "freguesia_id": 731,
+        "concelho_id": 73,
+        "ilha_id": 7
+    },
+    {
+        "id": 82113,
+        "zona": "SÃO DOMINGOS",
+        "freguesia_id": 821,
+        "concelho_id": 82,
+        "ilha_id": 8
+    },
+    {
+        "id": 74107,
+        "zona": "SAO FRANCISCO",
+        "freguesia_id": 741,
+        "concelho_id": 74,
+        "ilha_id": 7
+    },
+    {
+        "id": 78114,
+        "zona": "SAO JORGE",
+        "freguesia_id": 781,
+        "concelho_id": 78,
+        "ilha_id": 7
+    },
+    {
+        "id": 82111,
+        "zona": "SAO JORGE",
+        "freguesia_id": 821,
+        "concelho_id": 82,
+        "ilha_id": 8
+    },
+    {
+        "id": 74108,
+        "zona": "SAO MARTINHO GRANDE - NSGRAÇA",
+        "freguesia_id": 741,
+        "concelho_id": 74,
+        "ilha_id": 7
+    },
+    {
+        "id": 79108,
+        "zona": "SAO MARTINHO GRANDE - SNJesus",
+        "freguesia_id": 791,
+        "concelho_id": 79,
+        "ilha_id": 7
+    },
+    {
+        "id": 74109,
+        "zona": "SAO MARTINHO PEQUENO",
+        "freguesia_id": 741,
+        "concelho_id": 74,
+        "ilha_id": 7
+    },
+    {
+        "id": 21107,
+        "zona": "SÃO PEDRO",
+        "freguesia_id": 211,
+        "concelho_id": 21,
+        "ilha_id": 2
+    },
+    {
+        "id": 74110,
+        "zona": "SAO TOME",
+        "freguesia_id": 741,
+        "concelho_id": 74,
+        "ilha_id": 7
+    },
+    {
+        "id": 72149,
+        "zona": "SEDEGUMA",
+        "freguesia_id": 721,
+        "concelho_id": 72,
+        "ilha_id": 7
+    },
+    {
+        "id": 73122,
+        "zona": "SERELHO",
+        "freguesia_id": 731,
+        "concelho_id": 73,
+        "ilha_id": 7
+    },
+    {
+        "id": 72150,
+        "zona": "SERRA MALAGUETA",
+        "freguesia_id": 721,
+        "concelho_id": 72,
+        "ilha_id": 7
+    },
+    {
+        "id": 11106,
+        "zona": "SINAGOGA",
+        "freguesia_id": 111,
+        "concelho_id": 11,
+        "ilha_id": 1
+    },
+    {
+        "id": 81112,
+        "zona": "SUMBANGO",
+        "freguesia_id": 811,
+        "concelho_id": 81,
+        "ilha_id": 8
+    },
+    {
+        "id": 13120,
+        "zona": "TABUGA",
+        "freguesia_id": 131,
+        "concelho_id": 13,
+        "ilha_id": 1
+    },
+    {
+        "id": 76121,
+        "zona": "TAGARRA",
+        "freguesia_id": 761,
+        "concelho_id": 76,
+        "ilha_id": 7
+    },
+    {
+        "id": 31227,
+        "zona": "TALHO",
+        "freguesia_id": 312,
+        "concelho_id": 31,
+        "ilha_id": 3
+    },
+    {
+        "id": 13121,
+        "zona": "TARRAFAL DE M. TRIGO",
+        "freguesia_id": 131,
+        "concelho_id": 13,
+        "ilha_id": 1
+    },
+    {
+        "id": 83108,
+        "zona": "TINTEIRA",
+        "freguesia_id": 831,
+        "concelho_id": 83,
+        "ilha_id": 8
+    },
+    {
+        "id": 72151,
+        "zona": "TOMBA TOURO",
+        "freguesia_id": 721,
+        "concelho_id": 72,
+        "ilha_id": 7
+    },
+    {
+        "id": 91209,
+        "zona": "TOME BARRAZ",
+        "freguesia_id": 912,
+        "concelho_id": 91,
+        "ilha_id": 9
+    },
+    {
+        "id": 82210,
+        "zona": "TONGOM",
+        "freguesia_id": 822,
+        "concelho_id": 82,
+        "ilha_id": 8
+    },
+    {
+        "id": 71119,
+        "zona": "TRAS OS MONTES",
+        "freguesia_id": 711,
+        "concelho_id": 71,
+        "ilha_id": 7
+    },
+    {
+        "id": 79213,
+        "zona": "TRONCO",
+        "freguesia_id": 792,
+        "concelho_id": 79,
+        "ilha_id": 7
+    },
+    {
+        "id": 75110,
+        "zona": "VALE DA CUSTA",
+        "freguesia_id": 751,
+        "concelho_id": 75,
+        "ilha_id": 7
+    },
+    {
+        "id": 76122,
+        "zona": "VARANDA",
+        "freguesia_id": 761,
+        "concelho_id": 76,
+        "ilha_id": 7
+    },
+    {
+        "id": 75217,
+        "zona": "VARZEA DA IGREJA",
+        "freguesia_id": 752,
+        "concelho_id": 75,
+        "ilha_id": 7
+    },
+    {
+        "id": 75218,
+        "zona": "VENEZA",
+        "freguesia_id": 752,
+        "concelho_id": 75,
+        "ilha_id": 7
+    },
+    {
+        "id": 82211,
+        "zona": "VICENTE DIAS",
+        "freguesia_id": 822,
+        "concelho_id": 82,
+        "ilha_id": 8
+    },
+    {
+        "id": 31228,
+        "zona": "VILA DA RIBEIRA BRAVA (US)",
+        "freguesia_id": 312,
+        "concelho_id": 31,
+        "ilha_id": 3
+    },
+    {
+        "id": 12108,
+        "zona": "VILA DAS POMBAS (RS)",
+        "freguesia_id": 121,
+        "concelho_id": 12,
+        "ilha_id": 1
+    },
+    {
+        "id": 12109,
+        "zona": "VILA DAS POMBAS (US)",
+        "freguesia_id": 121,
+        "concelho_id": 12,
+        "ilha_id": 1
+    },
+    {
+        "id": 77102,
+        "zona": "VILA DE ACHADA IGREJA (URBANO)",
+        "freguesia_id": 771,
+        "concelho_id": 77,
+        "ilha_id": 7
+    },
+    {
+        "id": 72152,
+        "zona": "VILA DE ASSOMADA",
+        "freguesia_id": 721,
+        "concelho_id": 72,
+        "ilha_id": 7
+    },
+    {
+        "id": 83103,
+        "zona": "VILA DE COVA FIGUEIRA (URBANO)",
+        "freguesia_id": 831,
+        "concelho_id": 83,
+        "ilha_id": 8
+    },
+    {
+        "id": 78105,
+        "zona": "VILA DE JOAO TEVES (URBANO)",
+        "freguesia_id": 781,
+        "concelho_id": 78,
+        "ilha_id": 7
+    },
+    {
+        "id": 73123,
+        "zona": "VILA DE PEDRA BADEJO",
+        "freguesia_id": 731,
+        "concelho_id": 73,
+        "ilha_id": 7
+    },
+    {
+        "id": 11202,
+        "zona": "VILA DE PONTA DO SOL",
+        "freguesia_id": 112,
+        "concelho_id": 11,
+        "ilha_id": 1
+    },
+    {
+        "id": 51205,
+        "zona": "VILA DE SAL REI (US)",
+        "freguesia_id": 512,
+        "concelho_id": 51,
+        "ilha_id": 5
+    },
+    {
+        "id": 41103,
+        "zona": "VILA DE SANTA MARIA (RU)",
+        "freguesia_id": 411,
+        "concelho_id": 41,
+        "ilha_id": 4
+    },
+    {
+        "id": 41104,
+        "zona": "VILA DE SANTA MARIA (US)",
+        "freguesia_id": 411,
+        "concelho_id": 41,
+        "ilha_id": 4
+    },
+    {
+        "id": 61111,
+        "zona": "VILA DO PORTO INGLES (US)",
+        "freguesia_id": 611,
+        "concelho_id": 61,
+        "ilha_id": 6
+    },
+    {
+        "id": 13122,
+        "zona": "VILA DO PORTO NOVO (US)",
+        "freguesia_id": 131,
+        "concelho_id": 13,
+        "ilha_id": 1
+    },
+    {
+        "id": 32109,
+        "zona": "VILA DO TARRAFAL (URBANO)",
+        "freguesia_id": 321,
+        "concelho_id": 32,
+        "ilha_id": 3
+    },
+    {
+        "id": 71120,
+        "zona": "VILA DO TARRAFAL (US)",
+        "freguesia_id": 711,
+        "concelho_id": 71,
+        "ilha_id": 7
+    },
+    {
+        "id": 41105,
+        "zona": "VILA DOS ESPARGOS (RURAL)",
+        "freguesia_id": 411,
+        "concelho_id": 41,
+        "ilha_id": 4
+    },
+    {
+        "id": 41106,
+        "zona": "VILA DOS ESPARGOS (US)",
+        "freguesia_id": 411,
+        "concelho_id": 41,
+        "ilha_id": 4
+    },
+    {
+        "id": 81106,
+        "zona": "VILA DOS MOSTEIROS",
+        "freguesia_id": 811,
+        "concelho_id": 81,
+        "ilha_id": 8
+    },
+    {
+        "id": 91108,
+        "zona": "VILA NOVA SINTRA (RU)",
+        "freguesia_id": 911,
+        "concelho_id": 91,
+        "ilha_id": 9
+    },
+    {
+        "id": 91107,
+        "zona": "VILA NOVA SINTRA (US)",
+        "freguesia_id": 911,
+        "concelho_id": 91,
+        "ilha_id": 9
+    },
+    {
+        "id": 11108,
+        "zona": "VILA RIBEIRA GRANDE (RU)",
+        "freguesia_id": 111,
+        "concelho_id": 11,
+        "ilha_id": 1
+    },
+    {
+        "id": 11107,
+        "zona": "VILA RIBEIRA GRANDE (US)",
+        "freguesia_id": 111,
+        "concelho_id": 11,
+        "ilha_id": 1
+    },
+    {
+        "id": 91109,
+        "zona": "VINAGRE",
+        "freguesia_id": 911,
+        "concelho_id": 91,
+        "ilha_id": 9
+    },
+    {
+        "id": 76123,
+        "zona": "XAXA",
+        "freguesia_id": 761,
+        "concelho_id": 76,
+        "ilha_id": 7
+    },
+    {
+        "id": 11109,
+        "zona": "XOXO",
+        "freguesia_id": 111,
+        "concelho_id": 11,
+        "ilha_id": 1
+    }
+]

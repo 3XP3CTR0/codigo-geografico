@@ -1,0 +1,194 @@
+[
+    {
+        "id": 811,
+        "freguesia": "N. S. DA AJUDA",
+        "concelho_id": 81,
+        "ilha_id": 8
+    },
+    {
+        "id": 822,
+        "freguesia": "N. S. DA CONCEIÇÃO",
+        "concelho_id": 82,
+        "ilha_id": 8
+    },
+    {
+        "id": 741,
+        "freguesia": "N. S. DA GRACA",
+        "concelho_id": 74,
+        "ilha_id": 7
+    },
+    {
+        "id": 311,
+        "freguesia": "N. S. DA LAPA",
+        "concelho_id": 31,
+        "ilha_id": 3
+    },
+    {
+        "id": 611,
+        "freguesia": "N. S. DA LUZ",
+        "concelho_id": 61,
+        "ilha_id": 6
+    },
+    {
+        "id": 211,
+        "freguesia": "N. S. DA LUZ",
+        "concelho_id": 21,
+        "ilha_id": 2
+    },
+    {
+        "id": 751,
+        "freguesia": "N. S. DA LUZ",
+        "concelho_id": 75,
+        "ilha_id": 7
+    },
+    {
+        "id": 411,
+        "freguesia": "N. S. DAS DORES",
+        "concelho_id": 41,
+        "ilha_id": 4
+    },
+    {
+        "id": 912,
+        "freguesia": "N. S. DO MONTE",
+        "concelho_id": 91,
+        "ilha_id": 9
+    },
+    {
+        "id": 312,
+        "freguesia": "N. S. DO ROSARIO",
+        "concelho_id": 31,
+        "ilha_id": 3
+    },
+    {
+        "id": 112,
+        "freguesia": "N. S. LIVRAMENTO",
+        "concelho_id": 11,
+        "ilha_id": 1
+    },
+    {
+        "id": 111,
+        "freguesia": "N. S. ROSARIO",
+        "concelho_id": 11,
+        "ilha_id": 1
+    },
+    {
+        "id": 721,
+        "freguesia": "SANTA CATARINA",
+        "concelho_id": 72,
+        "ilha_id": 7
+    },
+    {
+        "id": 831,
+        "freguesia": "SANTA CATARINA DO FOGO",
+        "concelho_id": 83,
+        "ilha_id": 8
+    },
+    {
+        "id": 512,
+        "freguesia": "SANTA ISABEL",
+        "concelho_id": 51,
+        "ilha_id": 5
+    },
+    {
+        "id": 731,
+        "freguesia": "SANTIAGO MAIOR",
+        "concelho_id": 73,
+        "ilha_id": 7
+    },
+    {
+        "id": 791,
+        "freguesia": "SANTISSIMO NOME DE JESUS",
+        "concelho_id": 79,
+        "ilha_id": 7
+    },
+    {
+        "id": 711,
+        "freguesia": "SANTO AMARO ABADE",
+        "concelho_id": 71,
+        "ilha_id": 7
+    },
+    {
+        "id": 132,
+        "freguesia": "SANTO ANDRE",
+        "concelho_id": 13,
+        "ilha_id": 1
+    },
+    {
+        "id": 121,
+        "freguesia": "SANTO ANTONIO DAS POMBAS",
+        "concelho_id": 12,
+        "ilha_id": 1
+    },
+    {
+        "id": 113,
+        "freguesia": "SANTO CRUCIFIXO",
+        "concelho_id": 11,
+        "ilha_id": 1
+    },
+    {
+        "id": 321,
+        "freguesia": "SÃO FRANCISCO DE ASSIS",
+        "concelho_id": 32,
+        "ilha_id": 3
+    },
+    {
+        "id": 792,
+        "freguesia": "SÃO JOÃO BAPTISTA",
+        "concelho_id": 79,
+        "ilha_id": 7
+    },
+    {
+        "id": 131,
+        "freguesia": "SÃO JOÃO BAPTISTA",
+        "concelho_id": 13,
+        "ilha_id": 1
+    },
+    {
+        "id": 911,
+        "freguesia": "SÃO JOÃO BAPTISTA",
+        "concelho_id": 91,
+        "ilha_id": 9
+    },
+    {
+        "id": 511,
+        "freguesia": "SÃO JOÃO BAPTISTA",
+        "concelho_id": 51,
+        "ilha_id": 5
+    },
+    {
+        "id": 821,
+        "freguesia": "SÃO LOURENÇO",
+        "concelho_id": 82,
+        "ilha_id": 8
+    },
+    {
+        "id": 781,
+        "freguesia": "SÃO LOURENÇO DOS ÓRGÃOS",
+        "concelho_id": 78,
+        "ilha_id": 7
+    },
+    {
+        "id": 761,
+        "freguesia": "SÃO MIGUEL DO ARCANJO",
+        "concelho_id": 76,
+        "ilha_id": 7
+    },
+    {
+        "id": 752,
+        "freguesia": "SÃO NICOLAU TOLENTINO",
+        "concelho_id": 75,
+        "ilha_id": 7
+    },
+    {
+        "id": 114,
+        "freguesia": "SÃO PEDRO APOSTOLO",
+        "concelho_id": 11,
+        "ilha_id": 1
+    },
+    {
+        "id": 771,
+        "freguesia": "SÃO SALVADOR DO MUNDO",
+        "concelho_id": 77,
+        "ilha_id": 7
+    }
+]

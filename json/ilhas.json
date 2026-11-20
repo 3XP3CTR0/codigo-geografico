@@ -1,0 +1,38 @@
+[
+    {
+        "id": 5,
+        "ilha": "BOA VISTA"
+    },
+    {
+        "id": 9,
+        "ilha": "BRAVA"
+    },
+    {
+        "id": 8,
+        "ilha": "FOGO"
+    },
+    {
+        "id": 6,
+        "ilha": "MAIO"
+    },
+    {
+        "id": 4,
+        "ilha": "SAL"
+    },
+    {
+        "id": 7,
+        "ilha": "SANTIAGO"
+    },
+    {
+        "id": 1,
+        "ilha": "SANTO ANTÃO"
+    },
+    {
+        "id": 3,
+        "ilha": "SÃO NICOLAU"
+    },
+    {
+        "id": 2,
+        "ilha": "SÃO VICENTE"
+    }
+]

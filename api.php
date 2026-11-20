@@ -130,13 +130,6 @@ try {
     |--------------------------------------------------------------------------
     | LISTAR REGISTOS COM FILTROS
     |--------------------------------------------------------------------------
-    |
-    | Exemplos:
-    | api.php?tabela=concelhos&ilha_id=1
-    | api.php?tabela=freguesias&concelho_id=1
-    | api.php?tabela=zonas&freguesia_id=1
-    | api.php?tabela=lugares&zona_id=1
-    |
     */
 
     if ($metodo === "GET" && $acao === "listar") {
@@ -355,6 +348,75 @@ try {
             ], 400);
         }
 
+        /*
+        |--------------------------------------------------------------------------
+        | VERIFICAR REGISTOS DEPENDENTES
+        |--------------------------------------------------------------------------
+        */
+
+        // Define as relações entre cada tabela e a sua subcategoria.
+        $dependencias = [
+            "ilhas" => [
+                "tabela" => "concelhos",
+                "campo" => "ilha_id",
+                "nome" => "concelhos"
+            ],
+
+            "concelhos" => [
+                "tabela" => "freguesias",
+                "campo" => "concelho_id",
+                "nome" => "freguesias"
+            ],
+
+            "freguesias" => [
+                "tabela" => "zonas",
+                "campo" => "freguesia_id",
+                "nome" => "zonas"
+            ],
+
+            "zonas" => [
+                "tabela" => "lugares",
+                "campo" => "zona_id",
+                "nome" => "lugares"
+            ]
+        ];
+
+        // Verifica se a tabela atual possui uma subcategoria.
+        if (isset($dependencias[$tabela])) {
+
+            $dependencia = $dependencias[$tabela];
+
+            $sql = "SELECT COUNT(*) FROM `{$dependencia['tabela']}`
+                    WHERE `{$dependencia['campo']}` = :codigo";
+
+            $verificar = $pdo->prepare($sql);
+
+            $verificar->execute([
+                ":codigo" => $codigo
+            ]);
+
+            $total = (int) $verificar->fetchColumn();
+
+            // Se existirem registos dependentes, impede a eliminação.
+            if ($total > 0) {
+
+                responder([
+                    "sucesso" => false,
+                    "mensagem" => "Não é possível eliminar este registo porque existem "
+                        . $total . " registos dependentes ("
+                        . $dependencia["nome"]
+                        . ") associados. Elimina ou transfere primeiro esses registos."
+                ], 409);
+            }
+        }
+
+        /*
+        |--------------------------------------------------------------------------
+        | ELIMINAR REGISTO
+        |--------------------------------------------------------------------------
+        */
+
+        // Só chega aqui se não existirem dependências.
         $consulta = $pdo->prepare(
             "DELETE FROM `$tabela` WHERE `$chave` = :codigo"
         );
@@ -373,6 +435,8 @@ try {
             "mensagem" => "Registo eliminado com sucesso."
         ]);
     }
+
+  
 
     responder([
         "sucesso" => false,

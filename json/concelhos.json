@@ -1,0 +1,112 @@
+[
+    {
+        "id": 51,
+        "concelho": "BOA VISTA",
+        "ilha_id": 5
+    },
+    {
+        "id": 91,
+        "concelho": "BRAVA",
+        "ilha_id": 9
+    },
+    {
+        "id": 61,
+        "concelho": "MAIO",
+        "ilha_id": 6
+    },
+    {
+        "id": 81,
+        "concelho": "MOSTEIROS",
+        "ilha_id": 8
+    },
+    {
+        "id": 12,
+        "concelho": "PAUL",
+        "ilha_id": 1
+    },
+    {
+        "id": 13,
+        "concelho": "PORTO NOVO",
+        "ilha_id": 1
+    },
+    {
+        "id": 74,
+        "concelho": "PRAIA",
+        "ilha_id": 7
+    },
+    {
+        "id": 31,
+        "concelho": "RIBEIRA BRAVA",
+        "ilha_id": 3
+    },
+    {
+        "id": 11,
+        "concelho": "RIBEIRA GRANDE",
+        "ilha_id": 1
+    },
+    {
+        "id": 79,
+        "concelho": "RIBEIRA GRANDE DE SANTIAGO",
+        "ilha_id": 7
+    },
+    {
+        "id": 41,
+        "concelho": "SAL",
+        "ilha_id": 4
+    },
+    {
+        "id": 72,
+        "concelho": "SANTA CATARINA",
+        "ilha_id": 7
+    },
+    {
+        "id": 83,
+        "concelho": "SANTA CATARINA DO FOGO",
+        "ilha_id": 8
+    },
+    {
+        "id": 73,
+        "concelho": "SANTA CRUZ",
+        "ilha_id": 7
+    },
+    {
+        "id": 75,
+        "concelho": "SÃO DOMINGOS",
+        "ilha_id": 7
+    },
+    {
+        "id": 82,
+        "concelho": "SÃO FILIPE",
+        "ilha_id": 8
+    },
+    {
+        "id": 78,
+        "concelho": "SÃO LOURENÇO DOS ÓRGÃOS",
+        "ilha_id": 7
+    },
+    {
+        "id": 76,
+        "concelho": "SÃO MIGUEL",
+        "ilha_id": 7
+    },
+    {
+        "id": 77,
+        "concelho": "SÃO SALVADOR DO MUNDO",
+        "ilha_id": 7
+    },
+    {
+        "id": 21,
+        "concelho": "SÃO VICENTE",
+        "ilha_id": 2
+    },
+    {
+        "id": 71,
+        "concelho": "TARRAFAL",
+        "ilha_id": 7
+    },
+    {
+        "id": 32,
+        "concelho": "TARRAFAL DE SÃO NICOLAU",
+        "ilha_id": 3
+    }
+]
